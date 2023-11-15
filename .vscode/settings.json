@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".config": true,
+        ".vscode": true,
+        "dev-tools": true
+    }
+}
